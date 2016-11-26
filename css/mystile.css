@@ -1,0 +1,38 @@
+#home{
+	
+	background: url('../img/tapiz.jpg')no-repeat center center fixed;
+	height: 800px;
+	text-align: center;
+	padding: 20%;
+	color: white;
+}
+
+#about{
+	
+	background: url('../img/tapiz1.jpg')no-repeat center center fixed;
+	height: 900px;
+	text-align: justify;
+	padding: 10%;
+	color: white;
+}
+
+#portfolio{
+	
+	background: url('../img/math.jpg')no-repeat center center fixed;
+	height: 900px;
+	text-align: center;
+	padding: 5%;
+	color: white;
+}
+
+#contact{
+	
+	background: url('../img/tapiz2.jpg')no-repeat center center fixed;
+	height: 900px;
+	text-align: center;
+	padding: 5%;
+	color: white;
+}
+h1{
+	text-align: center;
+}
